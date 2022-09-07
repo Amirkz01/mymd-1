@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6281251549899', 'Dani Official', true], 
-['6285727529001', 'DaniBoTz-MD', true] 
+['6282154156241', 'Amirr', true], 
+['6285727529001', 'XyzenBOTz', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -37,11 +37,11 @@ global.APIKeys = { // APIKey Here
 global.linkyt = 'https://youtu.be/60yZO4UQKdI'
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
 global.linkgc = 'https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID'
-global.linkig = 'https://www.instagram.com/danibotz_official'
+global.linkig = 'https://www.instagram.com/amirbot_01'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@DaniBotz'
+global.bodlink = '@amirbot_01'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -52,7 +52,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 812-5154-9899'
+global.phn = '+62 821-5415-6241'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
