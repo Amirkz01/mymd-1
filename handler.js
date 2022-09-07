@@ -35,11 +35,11 @@ module.exports = {
         global.author = 'Made By Amirr © 2022'
         global.packname2 = 'Made With'
         global.author2 = 'DaniBoTz-MD By Amirr © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Dani Official˚'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Amirr˚'
         global.wm2 = '© XyzenBOTz' + ' ' + 'By Amirr'
         global.wm = '© XyzenBoTz'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Haori & Ziv San'
+        global.colong2 = 'By XyzenBoTz & Amirr'
         global.kontak2 = [
         ['6282154156241', 'Amirr', 'Creator Bot', 'Amir@support.com', true],
         ['6283844498451', 'XyzenBOTz', 'Bot WhatsApp', 'Just Bot', true]
